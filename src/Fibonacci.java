@@ -138,7 +138,7 @@ public class Fibonacci {
             }
         }
 
-        System.out.println("Altered List : " + integerList);
+        System.out.println("Altered List (solution): " + integerList);
 
 
     }
